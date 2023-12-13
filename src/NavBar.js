@@ -19,7 +19,7 @@ function NavBar () {
 						<NavLink to="/drinks">Drinks</NavLink>
 					</NavItem>
 					<NavItem>
-						<NavLink to="/api/add-item">Add Item</NavLink>
+						<NavLink to="/add-item">Add Item</NavLink>
 					</NavItem>
 				</Nav>
 			</Navbar>
